@@ -24,7 +24,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone [https://github.com/yourusername/Playwright_testing](https://github.com/AlexaEngine/Playwright_testing).git
+git clone https://github.com/AlexaEngine/Playwright_testing.git
 cd Playwright_testing
 Install Dependencies:
 
