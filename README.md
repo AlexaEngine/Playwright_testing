@@ -24,7 +24,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/Playwright_testing.git
+git clone [https://github.com/yourusername/Playwright_testing](https://github.com/AlexaEngine/Playwright_testing).git
 cd Playwright_testing
 Install Dependencies:
 
@@ -48,7 +48,7 @@ bash
 Copy code
 npx playwright test
 Script Explanation
-index.js: This script automates the process of navigating to the Hacker News "newest" page, loading the articles, and validating their order. It uses Playwright to interact with the browser and extract the necessary data.
+index.js: This script automates the process of navigating to the Hacker News "newest" page (https://news.ycombinator.com/newest), loading the articles, and validating their order. It uses Playwright to interact with the browser and extract the necessary data.
 
 hackerNews.spec.js: This file contains a Playwright test that replicates the functionality of the main script but is structured as a test case for easier integration into a testing pipeline.
 
