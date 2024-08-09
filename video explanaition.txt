@@ -1,0 +1,29 @@
+Link to Loom
+
+https://www.loom.com/share/106c169058d64d5da14453334b6020d3
+
+Transcript of my video:
+
+0:00 Hello QA Wolf team. My name is Alexandra and I'm thrilled to apply for the QA Engineer position at QA Wolf.
+0:07 Today I'd like to share why I'm excited about this opportunity and how I align with QA Wolf's values. I'm passionate about quality assurance because it plays a crucial role in delivering reliable software and enhancing user satisfaction.
+0:21 QA Wolf's mission to help teams ship confidentially through automated testing resonates with me deeply. I believe in the power of God.
+0:30 I believe automation to improve efficiency and accuracy in QA processes, and I'm excited about the innovative approach QA Wolf is taking to solve these challenges.
+0:40 QA Wolf values creating a magical customer experience, being open, having freedom and ownership, and delivering impact fast. Here's how I align with these values.
+0:51 I always strive to work backward from the ideal customer experience. I understand that delivering high-quality software can significantly increase the impact users' lives positively, and I aim to contribute to that magic.
+1:06 I value transparency and open communication. I believe in giving and receiving feedback constructively to foster a collaborative environment. I take ownership of my work and outcomes.
+1:18 I'm proactive and I'm blocking myself by reading documentation and seeking out resources which allows me to work independently and efficiently.
+1:27 I'm committed to continuous improvement and learning. I understand that. I understand that no one is perfect and always strive to be better by taking initiative and developing my skills.
+1:37 Overall, QA Wolf's commitment to innovation and quality aligns perfectly with my professional values and aspirations. I'm excited about the opportunity to contribute to your mission and be part of your thinking team.
+1:52 Now let me walk you through my playwright script for the take-home assignment and demonstrate its successful execution. Here's my playwright script.
+2:02 Located in the index.js file, the script navigates to Hacker News' newest page and verifies that the first 100 articles are sorted from the newest to oldest, as you can see from that code.
+2:17 First, I launch a headless Chromium browser and navigate to the newest page of Hacker News. Here's the code to that.
+2:27 Next, I define a function to extract the article details, including rank, title, and age. This function is used to fetch article data from the page, as you can see.
+2:51 The script continues to scroll down and click the More button to load additional articles until at least 100 are loaded.
+2:59 The articles are there. The script then slides to ensure exactly 100 articles are considered. Found at least 100 articles, proceed with the validation.
+3:11 Finally, I convert the article's ages to date, objects, and verify that the articles are sorted from newest to oldest. If the sorting is incorrect, an error is thrown.
+3:23 Otherwise, a success message will be displayed. Articles are sorted correctly. Okay, let's run the terminal.
+3:41 Let's clear my old terminal. Let's try with the node first. As you can see, our test is running. It clicks the more button.
+4:02 Loading first 30 articles. Loading 60 articles. Going to 90. And articles are sorted correctly. Now let's try to do the same with the playwright.
+4:20 And see. As you can see, it's running. WebKit, Chromium, Firefox The script successfully completes the task, indicating that the articles are sorted as required.
+4:43 This demonstrates my ability to create and run automated tasks using Playwright. Thank you for considering my application. I'm excited about the possibility of joining QA Wolf and contributing to your innovative QA solutions.
+4:56 I look forward to the opportunity to discuss my application further. Have a great day. Goodbye.
