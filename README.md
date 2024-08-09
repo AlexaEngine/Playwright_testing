@@ -57,5 +57,3 @@ playwright.config.js: This file contains the configuration for running Playwrigh
 Troubleshooting
 If you encounter any issues while running the script or tests, ensure that you have installed all dependencies correctly and that your environment meets the prerequisites. You can refer to the official Playwright documentation for additional help.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
